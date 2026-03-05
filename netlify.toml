@@ -1,5 +1,4 @@
 [build]
-  base = "vandana-chef-portfolio/"
   command = "npm run build"
   publish = ".next"
 
